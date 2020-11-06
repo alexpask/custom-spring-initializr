@@ -98,7 +98,7 @@
     "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^16.11.0",
     "react-hotkeys": "^2.0.0",
-    "react-markdown": "^4.2.2",
+    "react-markdown": "^5.0.0",
     "react-responsive-modal": "^4.0.1",
     "react-toastify": "^5.4.0",
     "react-transition-group": "^4.3.0"
